@@ -1,0 +1,7 @@
+*.ipynb
+*.txt
+*.md
+
+!README.md
+
+.trae/
